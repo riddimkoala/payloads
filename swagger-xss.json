@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/riddimkoala/payloads/main/swagger-xss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/riddimkoala/payloads/main/swagger-xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
